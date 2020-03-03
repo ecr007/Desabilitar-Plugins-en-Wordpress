@@ -1,0 +1,1 @@
+# Desabilitar-Plugins-en-Wordpress
